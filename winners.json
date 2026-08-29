@@ -3,22 +3,58 @@
     {
       "name": "Kids",
       "games": [
-        { "id": "kids-lemon-spoon", "name": "Lemon in Spoon", "winner": "" },
-        { "id": "kids-biscuit-biting", "name": "Biscuit Biting", "winner": "" },
-        { "id": "kids-music-chair", "name": "Music Chair", "winner": "" }
+        {
+          "id": "kids-lemon-spoon",
+          "name": "Lemon in Spoon",
+          "winner": ""
+        },
+        {
+          "id": "kids-biscuit-biting",
+          "name": "Biscuit Biting",
+          "winner": ""
+        },
+        {
+          "id": "kids-music-chair",
+          "name": "Music Chair",
+          "winner": ""
+        }
       ]
     },
     {
       "name": "Adults",
       "games": [
-        { "id": "adults-music-chair", "name": "Music Chair", "winner": "" },
-        { "id": "adults-lemon-spoon-buddy", "name": "Lemon in Spoon with Buddy", "winner": "" },
-        { "id": "adults-cup-balloon", "name": "Cup with Balloon", "winner": "" },
-        { "id": "adults-tug-of-war", "name": "Tug of War", "winner": "" },
-        { "id": "adults-pin-bindi", "name": "Pin the Bindi", "winner": "" },
-        { "id": "adults-candle-newspaper", "name": "Candle with Newspaper", "winner": "" }
+        {
+          "id": "adults-music-chair",
+          "name": "Music Chair",
+          "winner": ""
+        },
+        {
+          "id": "adults-lemon-spoon-buddy",
+          "name": "Lemon in Spoon with Buddy",
+          "winner": ""
+        },
+        {
+          "id": "adults-cup-balloon",
+          "name": "Cup with Balloon",
+          "winner": ""
+        },
+        {
+          "id": "adults-tug-of-war",
+          "name": "Tug of War",
+          "winner": ""
+        },
+        {
+          "id": "adults-pin-bindi",
+          "name": "Pin the Bindi",
+          "winner": ""
+        },
+        {
+          "id": "adults-candle-newspaper",
+          "name": "Candle with Newspaper",
+          "winner": ""
+        }
       ]
     }
   ],
-  "updated_at": null
+  "updated_at": "2026-08-29T06:14:46.084Z"
 }
